@@ -1,0 +1,9 @@
+body{
+    background-color: wheat;
+    place-items: center;
+    text-align: center;
+}
+fieldset{
+    color: black;
+    background-color: #f5f5f5;
+}

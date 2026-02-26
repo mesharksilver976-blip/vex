@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+    place-items: center;
+    text-align: center;
+    background-image: url(bugatti-chiron-pur-sport-2020-paris-5k-8k-8342x5561-1205.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+
+
+fieldset {
+    color: black;
+    background-color: transparent;
+    width: auto;
+    text-decoration-color: greenyellow;
+}
+
+button {
+    size: 20px;
+}
